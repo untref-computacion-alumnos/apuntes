@@ -1,7 +1,5 @@
 # Apuntes de Ingeniería en Computación - UNTREF
 
-# <<<<<<< HEAD
-
 Se pide leer este `README.md` antes de clonar este repositorio para entender claramente su funcionamiento.
 
 ## Instalación y configuración del entorno
