@@ -1,0 +1,237 @@
+format: jb-book
+root: introduccion
+defaults:
+  titlesonly: True
+  numbered: false
+parts:
+  - caption: Álgebra I
+    chapters:
+      - file: materias/algebra-i/1-introduccion
+
+  - caption: Álgebra II
+    chapters:
+      - file: materias/algebra-ii/1-introduccion
+
+  - caption: Álgebra III
+    chapters:
+      - file: materias/algebra-iii/1-introduccion
+
+  - caption: Algoritmos y Programación I
+    chapters:
+      - file: materias/algoritmos-y-programacion-i/algoritmos-y-programacion-i
+        sections:
+          - file: materias/algoritmos-y-programacion-i/apuntes/apuntes
+            sections:
+              - file: materias/algoritmos-y-programacion-i/apuntes/concepto-de-programa-sistema-algoritmo-datos-e-informacion
+              - file: materias/algoritmos-y-programacion-i/apuntes/paradigmas-de-programacion
+          - file: materias/algoritmos-y-programacion-i/evaluaciones/evaluaciones
+            sections:
+              - file: materias/algoritmos-y-programacion-i/evaluaciones/2p-2c-2024
+              - file: materias/algoritmos-y-programacion-i/evaluaciones/f-feb-2025
+
+  # - caption: Álgebra I
+  #   chapters:
+  #     - file: apuntes/index
+  #       title: Apuntes
+  #       sections:
+  #         - file: apuntes/markdown
+  #     - file: popo/index
+  #       title: Popo
+  #       sections:
+  #         - file: popo/notebooks
+
+  - caption: Algoritmos y Programación II
+    chapters:
+      - file: materias/algoritmos-y-programacion-ii/1-introduccion
+
+  - caption: Análisis Matemático I
+    chapters:
+      - file: materias/analisis-matematico-i/1-introduccion
+
+  - caption: Análisis Matemático II
+    chapters:
+      - file: materias/analisis-matematico-ii/1-introduccion
+
+  - caption: Arquitecturas Avanzadas
+    chapters:
+      - file: materias/arquitecturas-avanzadas/1-introduccion
+
+  - caption: Arquitecturas de Computadoras I
+    chapters:
+      - file: materias/arquitecturas-de-computadoras-i/1-introduccion
+
+  - caption: Base de Datos
+    chapters:
+      - file: materias/base-de-datos/1-introduccion
+
+  - caption: Comunicación de Datos
+    chapters:
+      - file: materias/comunicacion-de-datos/1-introduccion
+
+  - caption: Construcción de Sistemas de Computación
+    chapters:
+      - file: materias/construccion-de-sistemas-de-computacion/1-introduccion
+
+  - caption: Control Automático
+    chapters:
+      - file: materias/contro-automatico/1-introduccion
+
+  - caption: Cuestiones de Sociología, Economía y Política
+    chapters:
+      - file: materias/cuestiones-de-sociologia-economia-y-politica/1-introduccion
+
+  - caption: Cultura Contemporánea
+    chapters:
+      - file: materias/cultura-contemporanea/1-introduccion
+
+  - caption: Diseño de Páginas Web
+    chapters:
+      - file: materias/diseño-de-paginas-web/1-introduccion
+
+  - caption: Diseño Lógico
+    chapters:
+      - file: materias/diseño-logico/1-introduccion
+
+  - caption: Diseño y Arquitectura de Sistemas de Computación
+    chapters:
+      - file: materias/diseño-y-arquitectura-de-sistemas-de-computacion/1-introduccion
+
+  - caption: Dispositivos Electrónicos
+    chapters:
+      - file: materias/dispositivos-electronicos/1-introduccion
+
+  - caption: Estructura de Datos
+    chapters:
+      - file: materias/estructura-de-datos/1-introduccion
+
+  - caption: Ética y Legislación
+    chapters:
+      - file: materias/etica-y-legislacion/1-introduccion
+
+  - caption: Física I
+    chapters:
+      - file: materias/fisica-i/1-introduccion
+
+  - caption: Física II
+    chapters:
+      - file: materias/fisica-ii/1-introduccion
+
+  - caption: Fundamentos de Computación
+    chapters:
+      - file: materias/fundamentos-de-computacion/1-introduccion
+
+  - caption: Gestión de los Servicios de Enfermería
+    chapters:
+      - file: materias/gestion-de-los-servicios-de-enfermeria/1-introduccion
+
+  - caption: Higiene y Seguridad
+    chapters:
+      - file: materias/higiene-y-seguridad/1-introduccion
+
+  - caption: Ingeniería de Calidad
+    chapters:
+      - file: materias/ingenieria-de-calidad/1-introduccion
+
+  - caption: Ingeniería de Requerimientos
+    chapters:
+      - file: materias/ingenieria-de-requerimientos/1-introduccion
+
+  - caption: Ingeniería de Software
+    chapters:
+      - file: materias/ingenieria-de-software/1-introduccion
+
+  - caption: Ingeniería de Software II
+    chapters:
+      - file: materias/ingenieria-de-software-ii/1-introduccion
+
+  - caption: Inglés Básico
+    chapters:
+      - file: materias/ingles-basico/1-introduccion
+
+  - caption: Inglés Técnico
+    chapters:
+      - file: materias/ingles-tecnico/1-introduccion
+
+  - caption: Inteligencia Artificial
+    chapters:
+      - file: materias/inteligencia-artificial/1-introduccion
+
+  - caption: Introducción a la Ingeniería en Computación
+    chapters:
+      - file: materias/introduccion-a-la-ingenieria-en-computacion/1-introduccion
+
+  - caption: Introducción a la Problemática del Mundo Contemporáneo
+    chapters:
+      - file: materias/introduccion-a-la-problematica-del-mundo-contemporaneo/1-introduccion
+
+  - caption: Laboratorio de Electrónica
+    chapters:
+      - file: materias/laboratorio-de-electronica/1-introduccion
+
+  - caption: Matemática Discreta
+    chapters:
+      - file: materias/matematica-discreta/1-introduccion
+
+  - caption: Matemáticas Especiales
+    chapters:
+      - file: materias/matematicas-especiales/1-introduccion
+
+  - caption: Metodología de la Investigación
+    chapters:
+      - file: materias/metodologia-de-la-investigacion/1-introduccion
+
+  - caption: Práctica Profesional Supervisada
+    chapters:
+      - file: materias/practica-profesional-supervisada/1-introduccion
+
+  - caption: Probabilidad y Estadística
+    chapters:
+      - file: materias/probabilidad-y-estadistica/1-introduccion
+
+  - caption: Problemas de Historia del Siglo XX
+    chapters:
+      - file: materias/problemas-de-historia-del-siglo-xx/1-introduccion
+
+  - caption: Procesamiento de Señales
+    chapters:
+      - file: materias/procesamiento-de-señales/1-introduccion
+
+  - caption: Programación de Bajo Nivel
+    chapters:
+      - file: materias/programacion-de-bajo-nivel/1-introduccion
+
+  - caption: Redes de Computadoras
+    chapters:
+      - file: materias/redes-de-computadoras/1-introduccion
+
+  - caption: Sistemas Ciberfísicos
+    chapters:
+      - file: materias/sistemas-ciberfisicos/1-introduccion
+
+  - caption: Sistemas de Información Geográfica II
+    chapters:
+      - file: materias/sistemas-de-informacion-geografica-ii/1-introduccion
+
+  - caption: Sistemas Embebidos
+    chapters:
+      - file: materias/sistemas-embebidos/1-introduccion
+
+  - caption: Sistemas Operativos
+    chapters:
+      - file: materias/sistemas-operativos/1-introduccion
+
+  - caption: Sistemas Operativos Avanzados
+    chapters:
+      - file: materias/sistemas-operativos-avanzados/1-introduccion
+
+  - caption: Taller de Lectoescritura
+    chapters:
+      - file: materias/taller-de-lectoescritura/1-introduccion
+
+  - caption: Trabajo Final Integrador
+    chapters:
+      - file: materias/trabajo-final-integrador/1-introduccion
+
+  - caption: Trayecto Formativo Alternativo
+    chapters:
+      - file: materias/trabajo-formativo-alternativo/1-introduccion
