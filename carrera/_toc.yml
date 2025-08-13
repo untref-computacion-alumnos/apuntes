@@ -83,7 +83,7 @@ parts:
 
   - caption: Control Automático
     chapters:
-      - file: materias/contro-automatico/1-introduccion
+      - file: materias/control-automatico/1-introduccion
 
   - caption: Cuestiones de Sociología, Economía y Política
     chapters:
@@ -213,6 +213,7 @@ parts:
             sections:
               - file: materias/programacion-de-bajo-nivel/apuntes/bibliotecas-y-herramientas-de-reuso
               - file: materias/programacion-de-bajo-nivel/apuntes/codigo-independiente-de-la-posicion-pic
+              - file: materias/programacion-de-bajo-nivel/apuntes/introduccion-al-lenguaje-c
               - file: materias/programacion-de-bajo-nivel/apuntes/punteros-y-referencias
               - file: materias/programacion-de-bajo-nivel/apuntes/representacion-de-bajo-nivel-de-tipos-de-datos-atomicos-y-estructurados
               - file: materias/programacion-de-bajo-nivel/apuntes/representacion-fisica-de-la-memoria
@@ -259,4 +260,4 @@ parts:
 
   - caption: Trayecto Formativo Alternativo
     chapters:
-      - file: materias/trabajo-formativo-alternativo/1-introduccion
+      - file: materias/trayecto-formativo-alternativo/1-introduccion
