@@ -60,8 +60,8 @@ sphinx:
     language: es
     bibtex_reference_style: author_year
     proof_minimal_theme: true
-    html_static_path:
-      - _static
+    # html_static_path:
+    #   - _static
     rst_epilog: |
       .. role:: red
          :class: red-text
