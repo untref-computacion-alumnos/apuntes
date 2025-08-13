@@ -26,3 +26,7 @@ PORT ?= 8080
 .PHONY: server
 server: build
 	python -m http.server $(PORT) --directory carrera/_build/html
+
+## rebuild: limpia, compila y levanta el servidor
+.PHONY: rebuild
+rebuild: clean build server
