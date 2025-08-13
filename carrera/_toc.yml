@@ -24,25 +24,34 @@ parts:
             sections:
               - file: materias/algoritmos-y-programacion-i/apuntes/concepto-de-programa-sistema-algoritmo-datos-e-informacion
               - file: materias/algoritmos-y-programacion-i/apuntes/paradigmas-de-programacion
+          - file: materias/algoritmos-y-programacion-i/contenido-adicional/contenido-adicional
           - file: materias/algoritmos-y-programacion-i/evaluaciones/evaluaciones
             sections:
+              - file: materias/algoritmos-y-programacion-i/evaluaciones/1p-2c-2024
               - file: materias/algoritmos-y-programacion-i/evaluaciones/2p-2c-2024
               - file: materias/algoritmos-y-programacion-i/evaluaciones/f-feb-2025
 
-  # - caption: Álgebra I
-  #   chapters:
-  #     - file: apuntes/index
-  #       title: Apuntes
-  #       sections:
-  #         - file: apuntes/markdown
-  #     - file: popo/index
-  #       title: Popo
-  #       sections:
-  #         - file: popo/notebooks
-
   - caption: Algoritmos y Programación II
     chapters:
-      - file: materias/algoritmos-y-programacion-ii/1-introduccion
+      - file: materias/algoritmos-y-programacion-ii/algoritmos-y-programacion-ii
+        sections:
+          - file: materias/algoritmos-y-programacion-ii/apuntes/apuntes
+          - file: materias/algoritmos-y-programacion-ii/contenido-adicional/contenido-adicional
+          - file: materias/algoritmos-y-programacion-ii/evaluaciones/evaluaciones
+            sections:
+              - file: materias/algoritmos-y-programacion-ii/evaluaciones/1p-1c-2023_1
+              - file: materias/algoritmos-y-programacion-ii/evaluaciones/1p-1c-2023_2
+              - file: materias/algoritmos-y-programacion-ii/evaluaciones/1p-1c-2024_1
+              - file: materias/algoritmos-y-programacion-ii/evaluaciones/1p-1c-2024_2
+              - file: materias/algoritmos-y-programacion-ii/evaluaciones/1p-1c-2025_1
+              - file: materias/algoritmos-y-programacion-ii/evaluaciones/1p-1c-2025_2
+              - file: materias/algoritmos-y-programacion-ii/evaluaciones/2p-1c-2025_1
+              - file: materias/algoritmos-y-programacion-ii/evaluaciones/2p-1c-2025_2
+              - file: materias/algoritmos-y-programacion-ii/evaluaciones/r1p-1c-2025_1
+              - file: materias/algoritmos-y-programacion-ii/evaluaciones/r1p-1c-2025_2
+              - file: materias/algoritmos-y-programacion-ii/evaluaciones/r1p-1c-2023_1
+              - file: materias/algoritmos-y-programacion-ii/evaluaciones/r2p-1c-2025_1
+              - file: materias/algoritmos-y-programacion-ii/evaluaciones/r2p-1c-2025_2
 
   - caption: Análisis Matemático I
     chapters:
@@ -198,7 +207,23 @@ parts:
 
   - caption: Programación de Bajo Nivel
     chapters:
-      - file: materias/programacion-de-bajo-nivel/1-introduccion
+      - file: materias/programacion-de-bajo-nivel/programacion-de-bajo-nivel
+        sections:
+          - file: materias/programacion-de-bajo-nivel/apuntes/apuntes
+            sections:
+              - file: materias/programacion-de-bajo-nivel/apuntes/bibliotecas-y-herramientas-de-reuso
+              - file: materias/programacion-de-bajo-nivel/apuntes/codigo-independiente-de-la-posicion-pic
+              - file: materias/programacion-de-bajo-nivel/apuntes/punteros-y-referencias
+              - file: materias/programacion-de-bajo-nivel/apuntes/representacion-de-bajo-nivel-de-tipos-de-datos-atomicos-y-estructurados
+              - file: materias/programacion-de-bajo-nivel/apuntes/representacion-fisica-de-la-memoria
+              - file: materias/programacion-de-bajo-nivel/apuntes/solucion-de-problemas-en-lenguajes-de-bajo-nivel
+          - file: materias/programacion-de-bajo-nivel/contenido-adicional/contenido-adicional
+            sections:
+              - file: materias/programacion-de-bajo-nivel/contenido-adicional/videos
+          - file: materias/programacion-de-bajo-nivel/evaluaciones/evaluaciones
+            sections:
+              - file: materias/programacion-de-bajo-nivel/evaluaciones/tp1-1c-2025.md
+              - file: materias/programacion-de-bajo-nivel/evaluaciones/tp2-1c-2025.md
 
   - caption: Redes de Computadoras
     chapters:
