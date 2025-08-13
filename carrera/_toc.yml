@@ -213,6 +213,8 @@ parts:
             sections:
               - file: materias/programacion-de-bajo-nivel/apuntes/bibliotecas-y-herramientas-de-reuso
               - file: materias/programacion-de-bajo-nivel/apuntes/codigo-independiente-de-la-posicion-pic
+              - file: materias/programacion-de-bajo-nivel/apuntes/errores-comunes-con-punteros-en-c
+              - file: materias/programacion-de-bajo-nivel/apuntes/funciones-struct-typedef
               - file: materias/programacion-de-bajo-nivel/apuntes/introduccion-al-lenguaje-c
               - file: materias/programacion-de-bajo-nivel/apuntes/punteros-y-referencias
               - file: materias/programacion-de-bajo-nivel/apuntes/representacion-de-bajo-nivel-de-tipos-de-datos-atomicos-y-estructurados
@@ -220,6 +222,7 @@ parts:
               - file: materias/programacion-de-bajo-nivel/apuntes/solucion-de-problemas-en-lenguajes-de-bajo-nivel
           - file: materias/programacion-de-bajo-nivel/contenido-adicional/contenido-adicional
             sections:
+              - file: materias/programacion-de-bajo-nivel/contenido-adicional/paginas
               - file: materias/programacion-de-bajo-nivel/contenido-adicional/videos
           - file: materias/programacion-de-bajo-nivel/evaluaciones/evaluaciones
             sections:
