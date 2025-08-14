@@ -24,6 +24,17 @@ parts:
             sections:
               - file: materias/algoritmos-y-programacion-i/apuntes/concepto-de-programa-sistema-algoritmo-datos-e-informacion
               - file: materias/algoritmos-y-programacion-i/apuntes/paradigmas-de-programacion
+              - file: materias/algoritmos-y-programacion-i/apuntes/abstraccion-y-modelos
+              - file: materias/algoritmos-y-programacion-i/apuntes/resolucion-de-problemas-objetivos-y-estrategias
+              - file: materias/algoritmos-y-programacion-i/apuntes/refinamientos-sucesivos
+              - file: materias/algoritmos-y-programacion-i/apuntes/validacion-de-soluciones
+              - file: materias/algoritmos-y-programacion-i/apuntes/composicion-y-descomposicion
+              - file: materias/algoritmos-y-programacion-i/apuntes/tipos-de-datos-atomicos-y-estructurados
+              - file: materias/algoritmos-y-programacion-i/apuntes/tipos-de-datos-abstractos-tad
+              - file: materias/algoritmos-y-programacion-i/apuntes/objetos
+              - file: materias/algoritmos-y-programacion-i/apuntes/uso-de-objetos
+              - file: materias/algoritmos-y-programacion-i/apuntes/diseño-y-modelado-de-problemas-con-objetos
+              - file: materias/algoritmos-y-programacion-i/apuntes/clases-y-objetos
           - file: materias/algoritmos-y-programacion-i/contenido-adicional/contenido-adicional
           - file: materias/algoritmos-y-programacion-i/evaluaciones/evaluaciones
             sections:
@@ -211,15 +222,15 @@ parts:
         sections:
           - file: materias/programacion-de-bajo-nivel/apuntes/apuntes
             sections:
-              - file: materias/programacion-de-bajo-nivel/apuntes/bibliotecas-y-herramientas-de-reuso
-              - file: materias/programacion-de-bajo-nivel/apuntes/codigo-independiente-de-la-posicion-pic
-              - file: materias/programacion-de-bajo-nivel/apuntes/errores-comunes-con-punteros-en-c
-              - file: materias/programacion-de-bajo-nivel/apuntes/funciones-struct-typedef
               - file: materias/programacion-de-bajo-nivel/apuntes/introduccion-al-lenguaje-c
-              - file: materias/programacion-de-bajo-nivel/apuntes/punteros-y-referencias
-              - file: materias/programacion-de-bajo-nivel/apuntes/representacion-de-bajo-nivel-de-tipos-de-datos-atomicos-y-estructurados
-              - file: materias/programacion-de-bajo-nivel/apuntes/representacion-fisica-de-la-memoria
               - file: materias/programacion-de-bajo-nivel/apuntes/solucion-de-problemas-en-lenguajes-de-bajo-nivel
+              - file: materias/programacion-de-bajo-nivel/apuntes/representacion-fisica-de-la-memoria
+              - file: materias/programacion-de-bajo-nivel/apuntes/punteros-y-referencias
+              - file: materias/programacion-de-bajo-nivel/apuntes/errores-comunes-con-punteros-en-c
+              - file: materias/programacion-de-bajo-nivel/apuntes/representacion-de-bajo-nivel-de-tipos-de-datos-atomicos-y-estructurados
+              - file: materias/programacion-de-bajo-nivel/apuntes/funciones-struct-typedef
+              - file: materias/programacion-de-bajo-nivel/apuntes/codigo-independiente-de-la-posicion-pic
+              - file: materias/programacion-de-bajo-nivel/apuntes/bibliotecas-y-herramientas-de-reuso
           - file: materias/programacion-de-bajo-nivel/contenido-adicional/contenido-adicional
             sections:
               - file: materias/programacion-de-bajo-nivel/contenido-adicional/paginas
