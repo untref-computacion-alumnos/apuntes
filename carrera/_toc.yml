@@ -35,6 +35,25 @@ parts:
               - file: materias/algoritmos-y-programacion-i/apuntes/uso-de-objetos
               - file: materias/algoritmos-y-programacion-i/apuntes/diseño-y-modelado-de-problemas-con-objetos
               - file: materias/algoritmos-y-programacion-i/apuntes/clases-y-objetos
+              - file: materias/algoritmos-y-programacion-i/apuntes/identificacion-de-objetos-por-su-comportamiento
+              - file: materias/algoritmos-y-programacion-i/apuntes/tipos-de-datos-estructurados-asociativos-y-calculables
+              - file: materias/algoritmos-y-programacion-i/apuntes/estructuras-de-control-de-flujo
+              - file: materias/algoritmos-y-programacion-i/apuntes/globalidad-y-localidad
+              - file: materias/algoritmos-y-programacion-i/apuntes/organizacion-de-la-memoria
+              - file: materias/algoritmos-y-programacion-i/apuntes/atributos-parametros-y-argumentos
+              - file: materias/algoritmos-y-programacion-i/apuntes/referencias
+              - file: materias/algoritmos-y-programacion-i/apuntes/correccion-claridad-y-flexibilidad-del-software
+              - file: materias/algoritmos-y-programacion-i/apuntes/modularidad
+              - file: materias/algoritmos-y-programacion-i/apuntes/interfaces-entre-modulos
+              - file: materias/algoritmos-y-programacion-i/apuntes/encapsulamiento
+              - file: materias/algoritmos-y-programacion-i/apuntes/acoplamiento-y-cohesion
+              - file: materias/algoritmos-y-programacion-i/apuntes/diseño-por-contrato
+              - file: materias/algoritmos-y-programacion-i/apuntes/precondiciones-y-postcondiciones
+              - file: materias/algoritmos-y-programacion-i/apuntes/invariantes-de-representacion
+              - file: materias/algoritmos-y-programacion-i/apuntes/axiomas
+              - file: materias/algoritmos-y-programacion-i/apuntes/manejo-de-excepciones
+              - file: materias/algoritmos-y-programacion-i/apuntes/pruebas-unitarias-de-software
+              - file: materias/algoritmos-y-programacion-i/apuntes/ejecucion-de-software-desde-entornos-de-desarrollo-y-linea-de-comandos
           - file: materias/algoritmos-y-programacion-i/contenido-adicional/contenido-adicional
           - file: materias/algoritmos-y-programacion-i/evaluaciones/evaluaciones
             sections:
