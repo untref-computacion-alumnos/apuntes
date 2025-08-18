@@ -23,10 +23,12 @@ parts:
           - file: materias/algoritmos-y-programacion-i/apuntes/apuntes
             sections:
               - file: materias/algoritmos-y-programacion-i/apuntes/concepto-de-programa-sistema-algoritmo-datos-e-informacion
+              - file: materias/algoritmos-y-programacion-i/apuntes/logica
               - file: materias/algoritmos-y-programacion-i/apuntes/paradigmas-de-programacion
               - file: materias/algoritmos-y-programacion-i/apuntes/abstraccion-y-modelos
               - file: materias/algoritmos-y-programacion-i/apuntes/resolucion-de-problemas-objetivos-y-estrategias
               - file: materias/algoritmos-y-programacion-i/apuntes/refinamientos-sucesivos
+              - file: materias/algoritmos-y-programacion-i/apuntes/pseudocodigo
               - file: materias/algoritmos-y-programacion-i/apuntes/validacion-de-soluciones
               - file: materias/algoritmos-y-programacion-i/apuntes/composicion-y-descomposicion
               - file: materias/algoritmos-y-programacion-i/apuntes/tipos-de-datos-atomicos-y-estructurados
@@ -37,7 +39,9 @@ parts:
               - file: materias/algoritmos-y-programacion-i/apuntes/clases-y-objetos
               - file: materias/algoritmos-y-programacion-i/apuntes/identificacion-de-objetos-por-su-comportamiento
               - file: materias/algoritmos-y-programacion-i/apuntes/tipos-de-datos-estructurados-asociativos-y-calculables
+              - file: materias/algoritmos-y-programacion-i/apuntes/arreglos
               - file: materias/algoritmos-y-programacion-i/apuntes/estructuras-de-control-de-flujo
+              - file: materias/algoritmos-y-programacion-i/apuntes/subrutinas
               - file: materias/algoritmos-y-programacion-i/apuntes/globalidad-y-localidad
               - file: materias/algoritmos-y-programacion-i/apuntes/organizacion-de-la-memoria
               - file: materias/algoritmos-y-programacion-i/apuntes/atributos-parametros-y-argumentos
@@ -51,12 +55,21 @@ parts:
               - file: materias/algoritmos-y-programacion-i/apuntes/precondiciones-y-postcondiciones
               - file: materias/algoritmos-y-programacion-i/apuntes/invariantes-de-representacion
               - file: materias/algoritmos-y-programacion-i/apuntes/axiomas
+              - file: materias/algoritmos-y-programacion-i/apuntes/algoritmos-de-ordenamiento
+              - file: materias/algoritmos-y-programacion-i/apuntes/algoritmos-de-busqueda
+              - file: materias/algoritmos-y-programacion-i/apuntes/algoritmos-de-mezcla
+              - file: materias/algoritmos-y-programacion-i/apuntes/herencia
+              - file: materias/algoritmos-y-programacion-i/apuntes/polimorfismo
+              - file: materias/algoritmos-y-programacion-i/apuntes/abstraccion-y-clases-abstractas
               - file: materias/algoritmos-y-programacion-i/apuntes/manejo-de-excepciones
               - file: materias/algoritmos-y-programacion-i/apuntes/pruebas-unitarias-de-software
+              - file: materias/algoritmos-y-programacion-i/apuntes/api
               - file: materias/algoritmos-y-programacion-i/apuntes/ejecucion-de-software-desde-entornos-de-desarrollo-y-linea-de-comandos
           - file: materias/algoritmos-y-programacion-i/contenido-adicional/contenido-adicional
           - file: materias/algoritmos-y-programacion-i/evaluaciones/evaluaciones
             sections:
+              - file: materias/algoritmos-y-programacion-i/evaluaciones/sf1-uc-uy
+              - file: materias/algoritmos-y-programacion-i/evaluaciones/sf2-uc-uy
               - file: materias/algoritmos-y-programacion-i/evaluaciones/1p-2c-2024
               - file: materias/algoritmos-y-programacion-i/evaluaciones/2p-2c-2024
               - file: materias/algoritmos-y-programacion-i/evaluaciones/f-feb-2025
